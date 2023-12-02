@@ -1,5 +1,0 @@
-D:\AKAGI\CODING JOURNAL\Published\Dota Meta Analyser version a.01.exe
-D:\AKAGI\CODING JOURNAL\Published\Dota Meta Analyser version a.01.dll
-D:\AKAGI\CODING JOURNAL\Published\Dota Meta Analyser version a.01.deps.json
-D:\AKAGI\CODING JOURNAL\Published\Dota Meta Analyser version a.01.runtimeconfig.json
-D:\AKAGI\CODING JOURNAL\Published\Dota Meta Analyser version a.01.pdb
